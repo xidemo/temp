@@ -41,3 +41,8 @@ a {
 .below {
     z-index: -1;
 }
+
+.btn {
+    width: 400px;
+    height: 60px;
+}
