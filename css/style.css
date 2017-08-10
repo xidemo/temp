@@ -1,4 +1,4 @@
-body {
+body.show-bg {
     font-size: 2em;
     background-image: url("../images/00.jpg");
 }
