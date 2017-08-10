@@ -2,6 +2,13 @@ body {
     font-size: 2em;
 }
 
+.container {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 .no-padding {
     padding: 0;
 }
