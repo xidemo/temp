@@ -1,5 +1,6 @@
 body {
     font-size: 2em;
+    background-image: url("../images/00.jpg");
 }
 
 .container {
@@ -20,4 +21,23 @@ body {
 
 a {
     font-size: 2em;
+}
+
+.cir {
+    margin: 5em auto;
+    width: 80%;
+    height: 60%;
+    border-radius: 150px;
+    font-weight: bold;
+    display: table;
+    background-color: white;
+}
+
+.circle p {
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.below {
+    z-index: -1;
 }
