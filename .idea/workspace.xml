@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15608b36-5b9e-4310-8c85-a8a6ff46d1ee" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -204,12 +203,12 @@
       <updated>1502335178669</updated>
       <workItem from="1502335179879" duration="2182000" />
       <workItem from="1502339256226" duration="5287000" />
-      <workItem from="1502352263227" duration="3463000" />
+      <workItem from="1502352263227" duration="3832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10932000" />
+    <option name="totallyTimeSpent" value="11301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1792" y="30" width="1636" height="1410" extended-state="0" />
@@ -251,11 +250,11 @@
         <state relative-caret-position="54">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
-            <marker date="1502355475908" expanded="true" signature="5:28" ph="{...}" />
-            <marker date="1502355475908" expanded="true" signature="41:134" ph="{...}" />
-            <marker date="1502355475908" expanded="true" signature="148:167" ph="{...}" />
-            <marker date="1502355475908" expanded="true" signature="178:204" ph="{...}" />
-            <marker date="1502355475908" expanded="true" signature="208:231" ph="{...}" />
+            <marker date="1502356046933" expanded="true" signature="5:28" ph="{...}" />
+            <marker date="1502356046933" expanded="true" signature="41:151" ph="{...}" />
+            <marker date="1502356046933" expanded="true" signature="165:184" ph="{...}" />
+            <marker date="1502356046933" expanded="true" signature="195:221" ph="{...}" />
+            <marker date="1502356046933" expanded="true" signature="225:248" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -270,14 +269,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="486">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <marker date="1502355475908" expanded="true" signature="5:28" ph="{...}" />
-            <marker date="1502355475908" expanded="true" signature="41:134" ph="{...}" />
-            <marker date="1502355475908" expanded="true" signature="148:167" ph="{...}" />
-            <marker date="1502355475908" expanded="true" signature="178:204" ph="{...}" />
-            <marker date="1502355475908" expanded="true" signature="208:231" ph="{...}" />
+            <marker date="1502356046933" expanded="true" signature="5:28" ph="{...}" />
+            <marker date="1502356046933" expanded="true" signature="41:151" ph="{...}" />
+            <marker date="1502356046933" expanded="true" signature="165:184" ph="{...}" />
+            <marker date="1502356046933" expanded="true" signature="195:221" ph="{...}" />
+            <marker date="1502356046933" expanded="true" signature="225:248" ph="{...}" />
           </folding>
         </state>
       </provider>
